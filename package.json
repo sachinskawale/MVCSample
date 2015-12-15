@@ -1,0 +1,12 @@
+{
+  "name": "ngdemo",
+  "version": "1.0.0",
+  "description": "my sample angular app",
+  "main": "server.js",
+  "repository": "",
+  "author": "<mo.eweda@gmail.com>",
+  "dependencies": {
+    "gulp": "^3.9.0",
+    "gulp-webserver": "^0.9.1"
+  }
+}
